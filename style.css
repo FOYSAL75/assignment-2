@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo img{
+    width: 300px;
+}
+
+.text-color{
+    color: cadetblue;
+}
+.text-style>h2{
+    font-size: 5rem;
+}
+p{
+    color: lightslategray;
+}
+.page-header{
+    margin-top: 5em;
+  
+}
+button{
+    background-color: rgb(7, 6, 75) !important;
+    color: white !important;
+   
+}
+.green-img>img{
+    width: 100%;
+}
+li>img{
+    width:4em ;
+  
+}
+
+h5{
+    color: navy;
+    font-size:50px;
+}
